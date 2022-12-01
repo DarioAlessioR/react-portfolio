@@ -12,7 +12,7 @@ const Sidebar = () => (
     <Link className='logo' to="/">
       <img src={logoda} alt="logo" />
       <div className="logo-text">
-        <h1>Dario Alessio</h1>
+        <h3>Dario Alessio</h3>
       </div>
     </Link>
 
